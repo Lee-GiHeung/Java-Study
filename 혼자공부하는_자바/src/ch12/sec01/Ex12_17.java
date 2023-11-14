@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class Ex11_17 {
+public class Ex12_17 {
 
 	public static void main(String[] args) {
 		HashMap map = new HashMap();

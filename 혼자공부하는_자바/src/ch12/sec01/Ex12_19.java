@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.List;
 
-public class Ex11_19 {
+public class Ex12_19 {
 
 	public static void main(String[] args) {
 		List list = new ArrayList();

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 // HashMap을 생성하고 사용자 ID와 비밀번호를 키와 값의 쌍으로 저장한 다음
 // 입력된 사용자ID를 키로 HashMap에서 검색해서 얻은 값을 입력된 비밀번호와 비교하는 예제
-public class Ex11_16 {
+public class Ex12_16 {
 
 	public static void main(String[] args) {
 		HashMap map = new HashMap();

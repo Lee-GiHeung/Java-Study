@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class Ex11_18 {
+public class Ex12_18 {
 
 	public static void main(String[] args) {
 		String[] data =  
